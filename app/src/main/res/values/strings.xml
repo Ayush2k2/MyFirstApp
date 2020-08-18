@@ -1,0 +1,14 @@
+<resources>
+    <string name="serial_no">S.No</string>
+    <string name="item_name">Item Name</string>
+    <string name="quantity_item">Quantity</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="Shopkeeper_number">"Shopkeeper's Contact "</string>
+    <string name="Add_row">Add Row</string>
+    <string name="SEND">SEND</string>
+    <string name="app_name">Groceries Manager</string>
+</resources>
